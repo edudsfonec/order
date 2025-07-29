@@ -1,7 +1,7 @@
 package com.order.mapper;
 
 import com.order.dto.OrderCreatedDTO;
-import com.order.dto.OrderResponse;
+import com.order.response.OrderResponse;
 import com.order.entity.Order;
 import org.mapstruct.Mapper;
 

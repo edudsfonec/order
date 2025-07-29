@@ -1,8 +1,8 @@
 package com.order.controller;
 
-import com.order.dto.ApiResponse;
-import com.order.dto.OrderResponse;
-import com.order.dto.PaginationResponse;
+import com.order.response.ApiResponse;
+import com.order.response.OrderResponse;
+import com.order.response.PaginationResponse;
 import com.order.service.OrderService;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
